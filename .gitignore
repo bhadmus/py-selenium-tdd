@@ -5,3 +5,7 @@ dist/
 .vscode/
 .pytest_cache/
 tests/.pytest_cache/
+data_elements/__pycache__/
+resources/__pycache__/
+tests/__pycache__/
+assets/
