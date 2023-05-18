@@ -1,0 +1,7 @@
+venv/
+.idea/
+.DS_Store
+dist/
+.vscode/
+.pytest_cache/
+tests/.pytest_cache/
