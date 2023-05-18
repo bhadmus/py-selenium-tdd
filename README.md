@@ -1,6 +1,9 @@
 # Introduction to TDD in Python: Pytest
 ----
 ----
+This project is the repository made for the video tutorials uploaded on my YouTube channel for the [Python-TDD Playlist](https://www.youtube.com/playlist?list=PLaHZ36CQywdVEb7eSmzfKtbRRZAG1XEQF)
+
+----
 
 ## Framework and Libraries
 ----
